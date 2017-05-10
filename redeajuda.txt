@@ -1,0 +1,134 @@
+interesses I;
+contatos C;
+getline(arq,aux);
+    if (aux1 == aux){
+                          (aux != "#"){
+                                            getline(arq,aux);
+                                            if (aux != "#"){
+                                                                if(0 == aux.find("-",0)){
+                                                                                         aux.erase(0,3);
+                                                                                         C.incluir(aux);
+                                                                                         Vetor[i] = &C;
+                                                                                        }
+                                                                else
+                                                                   I.incluir(aux);
+                                                                   Vetor[i] = &I;
+                                                            }
+
+
+                                            if (aux.contains("#")){break;}
+                                            i++;
+                                         }
+                              
+
+
+
+                    }
+
+
+                    
+
+else getline(arq,aux);
+    if (aux1 == aux){
+                          (aux != "#"){
+                                            getline(arq,aux);
+                                            if (aux != "#"){
+                                                                if(0 == aux.find("-",0)){
+                                                                                         aux.erase(0,3);
+                                                                                         C.incluir(aux);
+                                                                                         Vetor[i] = &C;
+                                                                                        }
+                                                                else
+                                                                   I.incluir(aux);
+                                                                   Vetor[i] = &I;
+                                                            }
+
+
+                                            if (aux.contains("#")){break;}
+                                            i++;
+                                         }
+                              
+
+
+
+                    }
+
+         
+            
+  
+else getline(arq,aux);
+    if (aux1 == aux){
+                          (aux != "#"){
+                                            getline(arq,aux);
+                                            if (aux != "#"){
+                                                                if(0 == aux.find("-",0)){
+                                                                                         aux.erase(0,3);
+                                                                                         C.incluir(aux);
+                                                                                         Vetor[i] = &C;
+                                                                                        }
+                                                                else
+                                                                   I.incluir(aux);
+                                                                   Vetor[i] = &I;
+                                                            }
+
+
+                                            if (aux.contains("#")){break;}
+                                            i++;
+                                         }
+                              
+
+
+
+                    }
+
+         else getline(arq,aux);
+    if (aux1 == aux){
+                          (aux != "#"){
+                                            getline(arq,aux);
+                                            if (aux != "#"){
+                                                                if(0 == aux.find("-",0)){
+                                                                                         aux.erase(0,3);
+                                                                                         C.incluir(aux);
+                                                                                         Vetor[i] = &C;
+                                                                                        }
+                                                                else
+                                                                   I.incluir(aux);
+                                                                   Vetor[i] = &I;
+                                                            }
+
+
+                                            if (aux.contains("#")){break;}
+                                            i++;
+                                         }
+                              
+
+
+
+                    }
+
+         else getline(arq,aux);
+    if (aux1 == aux){
+                          (aux != "#"){
+                                            getline(arq,aux);
+                                            if (aux != "#"){
+                                                                if(0 == aux.find("-",0)){
+                                                                                         aux.erase(0,3);
+                                                                                         C.incluir(aux);
+                                                                                         Vetor[i] = &C;
+                                                                                        }
+                                                                else
+                                                                   I.incluir(aux);
+                                                                   Vetor[i] = &I;
+                                                            }
+
+
+                                            if (aux.contains("#")){break;}
+                                            i++;
+                                         }
+                              
+
+
+
+                    }
+
+         

@@ -1,0 +1,18 @@
+class Pessoa{
+string Nome;
+Interesses *C; // VetDinInteresses C;
+Pessoa *Amigos; // VetDinPessoa *A;
+Pessoa *Prox;
+
+}
+
+class VetDinPessoa{
+string *Pessoas[1000]; // Pessoa **Vetor; // PessoaRef *Amigos;
+
+
+}
+
+class PessoaRef{
+ Pessoa *P;
+ //Prox
+}
